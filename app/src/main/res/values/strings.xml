@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">AboutMe</string>
     <string name="name">Zukka</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Alessandro aka Zukka\n\nI love coding\nI like to eat Pizza and beer
+        \n\nNow I\'m studing on Udacity for Android Kotlin Developer Nanodegree
+        \n\nI am a mobile developer for patente dot it\n and every day I write some code in Xamarin
+        \n\nI hope to become a better developer and I study every day to improve my skills
+        \n\nI live in the north of Italy
+        \nI love Ireland and Bushmill
+        \nI \'m married with Tania and I have two children, Matteo and Marco.</string>
 </resources>
